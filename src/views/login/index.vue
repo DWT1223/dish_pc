@@ -20,7 +20,7 @@
           <span class="auth-feature__dot" />
           Enterprise Ready
         </div>
-        <h1 class="auth-feature__title">企业级管理系统</h1>
+        <h1 class="auth-feature__title">点菜后台管理系统</h1>
         <p class="auth-feature__subtitle">
           提供安全、高效、可扩展的管理解决方案，助力企业数字化转型与业务增长。
         </p>
